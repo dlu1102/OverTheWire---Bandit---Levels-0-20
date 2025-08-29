@@ -6,7 +6,8 @@ Here’s a **GitHub README draft** for Bandit 0–20, written in a **spoiler-fre
 # OverTheWire Bandit (Levels 0–20)
 
 ## 🎯 Objective
-Complete Bandit levels 0–20 to gain hands-on experience with Linux fundamentals, file handling, networking, and privilege escalation concepts — essential for cybersecurity, SOC analysis, and OSCP prep.
+Complete Bandit levels 0–20 to gain hands-on experience with Linux fundamentals, file handling,
+networking, and privilege escalation concepts — essential for cybersecurity, SOC analysis, and OSCP prep.
 
 ---
 
@@ -162,7 +163,8 @@ Complete Bandit levels 0–20 to gain hands-on experience with Linux fundamental
 
 ## 🚀 Next Steps
 - Continue Bandit Levels 21–34 (advanced networking & crypto).  
-- Transition into [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/) labs for OSCP prep.  
+- Transition into [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/)
+  labs for OSCP prep.  
 - Apply fundamentals in SOC/Cloud workflows (Splunk, IAM, AD).  
 
 ---
